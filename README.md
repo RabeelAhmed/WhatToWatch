@@ -3,7 +3,7 @@
 A modern, responsive movie discovery web application built with React and TailwindCSS. Discover trending movies, search for your favorites, and maintain a personal watchlist with intelligent "Worth Watching" recommendations.
 
 ## 🌐 Live Demo
-👉 [WhatToWatch on Netlify](https://worthwatchingtoday.netlify.app/)
+👉 [WhatToWatch](https://worthwatchingtoday.netlify.app/)
 
 ## ✨ Features
 
